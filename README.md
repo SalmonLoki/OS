@@ -1,2 +1,2 @@
 # OS
-OS home works - 4 semestr
+OS homework - 4 semester
